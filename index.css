@@ -1,0 +1,48 @@
+.head {
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-family: monospace;
+    stroke: aliceblue;
+    text-shadow: 2px white;
+    font-size: larger;
+    font-style: normal;
+}
+body {
+    background-image: url("Untitled (2).png");
+    background-repeat: no-repeat;
+    background-size: cover;   
+}
+.details {
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+.reg {
+    text-align: center;
+    font-size: medium;
+}
+a {
+    text-align: center;
+    color: white;
+    font-size: large;
+    font-family: monospace;
+    font-style: italic;
+}
+p {
+    font-family: monospace;
+    font-style: italic;
+    font-size: large;
+    color: white;
+}
+img {
+    height: 250px;
+    width: 250px;
+}
+p {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    font-family: monospace;
+}
